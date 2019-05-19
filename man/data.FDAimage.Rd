@@ -40,5 +40,5 @@ data.FDAimage(n, Z, ind.inside, sigma, rho = 0.5, iter = 2019,
 This function is used to generate the simulation examples for image-on-scalar regression.
 }
 \details{
-This R package is the implementation program for manuscript entitled ``Multivariate Spline Estimation and Inference for Varying Coeffiient Models with Imaging Data" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
+This R package is the implementation program for manuscript entitled "Multivariate Spline Estimation and Inference for Image-on-Scalar Regression" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
 }

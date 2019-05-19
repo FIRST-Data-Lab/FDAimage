@@ -44,5 +44,5 @@ A list of the lower SCC and upper SCC for the coefficient functions.
 This function is used to construct the simultaneous confidence corridors (SCC) for the coefficient functions in image-on-scalar regression.
 }
 \details{
-This R package is the implementation program for manuscript entitled ``Multivariate Spline Estimation and Inference for Varying Coeffiient Models with Imaging Data" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
+This R package is the implementation program for manuscript entitled "Multivariate Spline Estimation and Inference for Image-on-Scalar Regression" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
 }

@@ -47,7 +47,7 @@ cv.FDAimage(Y, X, Z, V, Tr, d = 5, r = 1, lambda = 10^seq(-6, 6, by =
 This function implements k-fold cross-validation for image-on-scalar regression, and returns the mean squared prediction error.
 }
 \details{
-This R package is the implementation program for manuscript entitled ``Multivariate Spline Estimation and Inference for Varying Coeffiient Models with Imaging Data" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
+This R package is the implementation program for manuscript entitled "Multivariate Spline Estimation and Inference for Image-on-Scalar Regression" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
 }
 \examples{
 # Libraries and source files needed

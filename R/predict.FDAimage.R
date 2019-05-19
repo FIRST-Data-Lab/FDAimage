@@ -1,6 +1,6 @@
-#' Make predictions from a fitted multivariate varying coefficient models.
+#' Make predictions from a fitted multivariate spline image-on-scalar regression model.
 #'
-#' This function is used to make predictions of the multivariate varying coefficient models.
+#' This function is used to make predictions of the multivariate spline image-on-scalar regression models.
 #'
 #' @importFrom Matrix Matrix
 #' @importFrom BPST basis
@@ -13,7 +13,7 @@
 #' \cr
 #' @return A matrix of predicted images is returned.
 #'
-#' @details This R package is the implementation program for manuscript entitled ``Multivariate Spline Estimation and Inference for Varying Coeffiient Models with Imaging Data" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
+#' @details This R package is the implementation program for manuscript entitled "Multivariate Spline Estimation and Inference for Image-on-Scalar Regression" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
 #'
 #' @export
 #'

@@ -2,7 +2,7 @@
 % Please edit documentation in R/predict.FDAimage.R
 \name{predict.FDAimage}
 \alias{predict.FDAimage}
-\title{Make predictions from a fitted multivariate varying coefficient models.}
+\title{Make predictions from a fitted multivariate spline image-on-scalar regression model.}
 \usage{
 \method{predict}{FDAimage}(mfit, Xpred, Zpred)
 }
@@ -20,8 +20,8 @@
 A matrix of predicted images is returned.
 }
 \description{
-This function is used to make predictions of the multivariate varying coefficient models.
+This function is used to make predictions of the multivariate spline image-on-scalar regression models.
 }
 \details{
-This R package is the implementation program for manuscript entitled ``Multivariate Spline Estimation and Inference for Varying Coeffiient Models with Imaging Data" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
+This R package is the implementation program for manuscript entitled "Multivariate Spline Estimation and Inference for Image-on-Scalar Regression" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
 }

@@ -28,7 +28,7 @@
 #' \item{mspe}{The mean squared prediction error based on k-fold cross validation (CV).}
 #' \item{lamc}{The tuning parameter selected by k-fold cross validation (CV).}
 #' \cr
-#' @details This R package is the implementation program for manuscript entitled ``Multivariate Spline Estimation and Inference for Varying Coeffiient Models with Imaging Data" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
+#' @details This R package is the implementation program for manuscript entitled "Multivariate Spline Estimation and Inference for Image-on-Scalar Regression" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
 #'
 #' @examples
 #' # Libraries and source files needed

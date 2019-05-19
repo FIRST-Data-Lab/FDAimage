@@ -23,7 +23,7 @@
 #' \item{Z}{The coordinates of the pixels/voxels.}
 #' \item{beta.true}{The true coefficient functions.}
 #' \cr
-#' @details This R package is the implementation program for manuscript entitled ``Multivariate Spline Estimation and Inference for Varying Coeffiient Models with Imaging Data" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
+#' @details This R package is the implementation program for manuscript entitled "Multivariate Spline Estimation and Inference for Image-on-Scalar Regression" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
 #' @export
 #'
 data.FDAimage <- function(n,Z,ind.inside,sigma,rho=0.5,iter=2019,lambda1=0.03,

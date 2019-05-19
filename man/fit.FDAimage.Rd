@@ -2,7 +2,7 @@
 % Please edit documentation in R/fit.FDAimage.R
 \name{fit.FDAimage}
 \alias{fit.FDAimage}
-\title{Fitting multivariate varying coefficient models}
+\title{Fitting multivariate spline image-on-scalar regression models}
 \usage{
 fit.FDAimage(Y, X, Z, V, Tr, d = 5, r = 1, lambda = 0.1)
 }
@@ -41,10 +41,10 @@ An object with S3 class "FDAimage", including
 \item{lamc}{Selected tuning parameter for bivariate penalized spline based on GCV.}
 }
 \description{
-This function is used to fit the multivariate varying coefficient models.
+This function is used to fit the multivariate spline image-on-scalar regression models.
 }
 \details{
-This R package is the implementation program for manuscript entitled ``Multivariate Spline Estimation and Inference for Varying Coeffiient Models with Imaging Data" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
+This R package is the implementation program for manuscript entitled "Multivariate Spline Estimation and Inference for Image-on-Scalar Regression" by Shan Yu, Guannan Wang, Li Wang and Lijian Yang.
 }
 \examples{
 # Libraries and source files needed
